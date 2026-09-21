@@ -1,0 +1,7 @@
+name = "web-berita-onews"
+compatibility_date = "2026-09-21"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "onews-db"
+database_id = "ganti_dengan_id_dari_cloudflare_anda"
